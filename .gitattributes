@@ -1,0 +1,3 @@
+*.js linguist-language=SourcePawn 
+*.css linguist-language=SourcePawn 
+*.html linguist-language=SourcePawn 
