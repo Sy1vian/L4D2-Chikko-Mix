@@ -19,7 +19,7 @@
 sm_mix
 sm_stopmix
 ```
-## 提示
+``` 提示
 只有最高Z99和拥有R flags组的管理拥有权限使用本插件，防止有idiot乱MIX
 ```
 ## License
